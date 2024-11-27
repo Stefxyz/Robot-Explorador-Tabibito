@@ -1,0 +1,4 @@
+Hola esta programacion es del primer año qie hizo este proyecto yo siendo del segundo y al centrarme mas en el montaje no pude realizar demasiado de este sin embargo les voy a dejar la informacion que pude conseguir
+primero el archivo es un documento de visual studio utilizando una extension llamada "PlataformIo" que basicamente funciona como si fuera arduino para el visual studio,poco mas que eso les puedo decir,
+se tienen que fijar como añadir las librerias para los sensores y tambien deben agregar desde aqui para enviar lo datos a la base de datos que realizen,no se si les convenga hacerlo desde visual yo diria que si
+pero a lo mejor descubren una forma mas eficiente de hacerlo
