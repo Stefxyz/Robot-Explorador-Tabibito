@@ -1,0 +1,14 @@
+Este archivo lo realizo ya que seguramente el proximo año tambien se continue el proyecto, asi que para que no realizen todo desde 0,o una parte temprana del proyecto que ya fue realizada por nosotros.
+les dejo este archivo,si bien no todo es perfecto por lo menos tienen mas cosas y si el profe les ayuda tendran una idea general de como avanzar
+En 1 lugar la razon por la que no pudimos avanzar es debido a que no se imprimieron todas las piezas en 3d por lo que las piezas que faltan(si no se perdio ninguna desde que termine la escuela) son 
+3 soportes 2 largos y 1 corto,(fijense que estos sean espejado)
+4 suplementos estos van entre el amortiguador y los servos(supongo que entiende porque son necesarios y si no lo entienden ya lo entenderan cuando hagan el montaje)
+y 2 partes para agarrar el amortiguador estas si bien no las tengo yo simplemente pueden en el diseño 3d del amortiguador que pase yo cortar esas partes y usarlas ya que deberian ser iguales
+Tambien otra cosa que deberian de tener en cuenta es que los servos utilizados son los mg 996r si bien estos deberian funcionar (ya que soportan hasta 10Kg)debido a la distancia de 2cm desde el eje hasta donde se conectan el amortiguador y el servo puede que no lo soporte,
+de ser asi en vez de usar el ultimo agujero del servo deberian hacer alguno anterior y por lo tanto cambiar los calculo,de todas formas no deberia ser un problema demasiado grande pero tenganlo en cuenta
+Si pueden realizar eso el montaje no deberia ser mucho problema
+Por lo que lo unico que les quedaria seria hacer el servidor para subir los datos,por desgracia no les puedo ser de mucha ayuda ya que no pude realizarlo y aunque lo hubiese realizado,posiblemente el profesor cambiaria algo
+lo unico que les puedo decir es que como se ve en el diagrama en bloques la placa que realiza el movimiento esta hecha para que solo evie datos a la otra placa y que esta se encargue de enviar los datos
+No se si les sera de mucha ayuda esta informacion pero espero que asi sea
+att:Lucero Stefano
+
